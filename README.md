@@ -3,7 +3,7 @@
 The purpose of this application is to demonstrate how to use the client and action endpoints of the Auth0 Management API V2. The use of authentication and Role Based Access Control is also shown within this application. In order to take advantage of this application you will also need to use the sample Express API which can be found here: https://github.com/cornejog553/Auth0ExpressAPI
 
 
-##Running the Sample Application
+#Running the Sample Application
 
 
 The sample can be run locally, by cloning the repository to your machine and then following the steps below.
