@@ -22,6 +22,7 @@ Change the values of SECRET, BASEURL, CLIENTID, CLIENTSECRET, and ISSUER to matc
 After cloning the repository from the Master branch, run:
 
 $ npm install
+
 This will install all of the necessary packages in order for the sample to run.
 
 
