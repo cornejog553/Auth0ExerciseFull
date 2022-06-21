@@ -4,20 +4,30 @@ The purpose of this application is to demonstrate how to use the client and acti
 
 
 Running the Sample Application
+
+
 The sample can be run locally, by cloning the repository to your machine and then following the steps below.
 
 Create a new Regular Web Application in Auth0
 
+
 Specify Auth0 Credentials in the .env file
+
+
 Change the values of SECRET, BASEURL, CLIENTID, CLIENTSECRET, and ISSUER to match what is found in your dashboard.
 
 Installation
+
+
 After cloning the repository, run:
 
 $ npm install
 This will install all of the necessary packages in order for the sample to run.
 
+
 Running the Application
+
+
 This version of the application uses an Express server that can serve the site. To start the app from the terminal, run:
 
 $ npm start
